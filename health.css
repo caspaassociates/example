@@ -1,0 +1,11 @@
+body {
+    background-color:darkgray;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.main-header h3{
+    color:white;
+    font-weight:300;
+    font-size:24px;
+    text-align:center;
+}
